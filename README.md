@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About:
 🔭 I’m currently working on MERN projects<br>💬 Ask me about MERN<br>⚡ Fun fact "I lost my main account"
 
 
