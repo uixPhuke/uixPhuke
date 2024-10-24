@@ -5,8 +5,29 @@
 
 
 ## 🌐 Socials:
-[![My GIF](https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif)](https://phuke.vercel.app)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Phuke@1390) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uix_phuke) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-in) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@UiX) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/phu-ke) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rohanphuke) 
+<div align="center">
+  <a href="https://instagram.com/uix_phuke" target="_blank">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" width="50" alt="Instagram"/>
+  </a>
+  <a href="https://x.com/rohanphuke" target="_blank">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter.svg" width="50" alt="Twitter"/>
+  </a>
+  <a href="https://linkedin.com/in/rohan-in" target="_blank">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" width="50" alt="LinkedIn"/>
+  </a>
+  <a href="https://reddit.com/u/phu-ke" target="_blank">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/reddit.svg" width="50" alt="Reddit"/>
+  </a>
+  <a href="https://medium.com/@UiX" target="_blank">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/medium.svg" width="50" alt="Medium"/>
+  </a>
+
+  <a href="https://discord.com/users/Phuke@1390" target="_blank">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/discord.svg" width="50" alt="Discord"/>
+  </a>
+</div>
+
+
 
 # 💻 Tech Stack:
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div>
