@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://github.com/uixPhuke/uixPhuke/banner.png" alt="My Project Banner" />
+</div>
+
 <img align=center src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="200" height="200" />
 
 [![](https://visitcount.itsvg.in/api?id=uixPhuke&icon=10&color=13)](https://visitcount.itsvg.in)
