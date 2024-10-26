@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/uixPhuke/uixPhuke/banner.png" alt="My Project Banner" />
+    <img src="https://github.com/uixPhuke/uixPhuke/raw/main/banner.png" alt="My Project Banner" />
 </div>
 
 <img align=center src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="200" height="200" />
