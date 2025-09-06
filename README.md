@@ -10,7 +10,7 @@
         <img src="https://visitcount.itsvg.in/api?id=uixPhuke&icon=10&color=13" alt="Visit Count" />
     </a>
 </div>-->
-      <h2> <img align=center src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="50" height="50" />  About Me::::::::::::::::: </h2>
+      <h2> <img align=center src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="50" height="50" />  About Me </h2>
       <ul>
      <li>I am a Full Stack Developer & Graphic Designer</li>
         <li>Currently working on A blog Site</li>
@@ -53,10 +53,13 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uixPhuke&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
       </p>
       
+      
 
 
   <h2>💰 Wanna help me?</h2> 
 <p><a href="https://www.buymeacoffee.com/uixphuke"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="uixphuke" /></a></p>
+<p>I like green flag: Like me prev Acc</p>
+<img src="https://github.com/uixPhuke/uixPhuke/raw/main/183526363.png" alt="green" />
     </td>
   </tr>
 </table>
