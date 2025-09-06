@@ -58,7 +58,7 @@
 
   <h2>💰 Wanna help me?</h2> 
 <p><a href="https://www.buymeacoffee.com/uixphuke"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="uixphuke" /></a></p>
-<p>I like green flag: Like me prev Acc</p>
+<h3>I like green flag: Like me prev Acc</h3>
 <img src="https://github.com/uixPhuke/uixPhuke/raw/main/183526363.png" alt="green" />
     </td>
   </tr>
