@@ -5,11 +5,11 @@
   <tr>
    
   <td valign="top" width="50%">
-      <div align="center">
+   <!--   <div align="center">
     <a href="https://visitcount.itsvg.in">
         <img src="https://visitcount.itsvg.in/api?id=uixPhuke&icon=10&color=13" alt="Visit Count" />
     </a>
-</div>
+</div>-->
       <h2> <img align=center src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="50" height="50" />  About Me::::::::::::::::: </h2>
       <ul>
      <li>I am a Full Stack Developer & Graphic Designer</li>
