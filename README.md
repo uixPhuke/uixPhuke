@@ -1,11 +1,11 @@
-  <!-- <div align="center">
+ <div align="center">
     <img src="https://github.com/uixPhuke/uixPhuke/raw/main/banner.png" alt="My Project Banner" />
 </div>
 <table>
   <tr>
    
-  <td valign="top" width="50%">
-   <!--   <div align="center">
+ <!--  <td valign="top" width="50%">
+     <div align="center">
     <a href="https://visitcount.itsvg.in">
         <img src="https://visitcount.itsvg.in/api?id=uixPhuke&icon=10&color=13" alt="Visit Count" />
     </a>
