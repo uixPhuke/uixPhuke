@@ -1,5 +1,5 @@
  <div align="center">
-    <img src="https://github.com/uixPhuke/uixPhuke/raw/main/banner.png" alt="My Project Banner" />
+    <img src="https://github.com/uixPhuke/uixPhuke/raw/main/banner.png](https://github.com/uixPhuke/uixPhuke/blob/main/linkdin-banner%20copy.png" alt="My Project Banner" />
 </div>
 <table>
   <tr>
